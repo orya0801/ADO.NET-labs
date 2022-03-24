@@ -1,0 +1,11 @@
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\WorkingDataTable\bin\Debug\WorkingDataTable.exe.config
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\WorkingDataTable\bin\Debug\WorkingDataTable.exe
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\WorkingDataTable\bin\Debug\WorkingDataTable.pdb
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\WorkingDataTable\obj\Debug\WorkingDataTable.csproj.AssemblyReference.cache
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\WorkingDataTable\obj\Debug\WorkingDataTable.csproj.SuggestedBindingRedirects.cache
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\WorkingDataTable\obj\Debug\WorkingDataTable.Form1.resources
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\WorkingDataTable\obj\Debug\WorkingDataTable.Properties.Resources.resources
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\WorkingDataTable\obj\Debug\WorkingDataTable.csproj.GenerateResource.cache
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\WorkingDataTable\obj\Debug\WorkingDataTable.csproj.CoreCompileInputs.cache
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\WorkingDataTable\obj\Debug\WorkingDataTable.exe
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\WorkingDataTable\obj\Debug\WorkingDataTable.pdb

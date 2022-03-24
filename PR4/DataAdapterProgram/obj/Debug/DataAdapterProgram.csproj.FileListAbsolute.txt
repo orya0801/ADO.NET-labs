@@ -1,0 +1,11 @@
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataAdapterProgram\bin\Debug\DataAdapterProgram.exe.config
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataAdapterProgram\bin\Debug\DataAdapterProgram.exe
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataAdapterProgram\bin\Debug\DataAdapterProgram.pdb
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataAdapterProgram\obj\Debug\DataAdapterProgram.csproj.AssemblyReference.cache
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataAdapterProgram\obj\Debug\DataAdapterProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataAdapterProgram\obj\Debug\DataAdapterProgram.Form1.resources
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataAdapterProgram\obj\Debug\DataAdapterProgram.Properties.Resources.resources
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataAdapterProgram\obj\Debug\DataAdapterProgram.csproj.GenerateResource.cache
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataAdapterProgram\obj\Debug\DataAdapterProgram.csproj.CoreCompileInputs.cache
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataAdapterProgram\obj\Debug\DataAdapterProgram.exe
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataAdapterProgram\obj\Debug\DataAdapterProgram.pdb

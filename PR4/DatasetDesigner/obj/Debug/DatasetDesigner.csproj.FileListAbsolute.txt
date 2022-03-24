@@ -1,0 +1,11 @@
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DatasetDesigner\bin\Debug\DatasetDesigner.exe.config
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DatasetDesigner\bin\Debug\DatasetDesigner.exe
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DatasetDesigner\bin\Debug\DatasetDesigner.pdb
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DatasetDesigner\obj\Debug\DatasetDesigner.csproj.AssemblyReference.cache
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DatasetDesigner\obj\Debug\DatasetDesigner.csproj.SuggestedBindingRedirects.cache
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DatasetDesigner\obj\Debug\DatasetDesigner.Properties.Resources.resources
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DatasetDesigner\obj\Debug\DatasetDesigner.csproj.GenerateResource.cache
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DatasetDesigner\obj\Debug\DatasetDesigner.csproj.CoreCompileInputs.cache
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DatasetDesigner\obj\Debug\DatasetDesigner.exe
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DatasetDesigner\obj\Debug\DatasetDesigner.pdb
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DatasetDesigner\obj\Debug\DatasetDesigner.Form1.resources

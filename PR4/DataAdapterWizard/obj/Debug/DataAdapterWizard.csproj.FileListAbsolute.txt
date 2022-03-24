@@ -1,0 +1,11 @@
+C:\Users\daniil.orel\University\ASP.NET\DataAdapterWizard\bin\Debug\DataAdapterWizard.exe.config
+C:\Users\daniil.orel\University\ASP.NET\DataAdapterWizard\bin\Debug\DataAdapterWizard.exe
+C:\Users\daniil.orel\University\ASP.NET\DataAdapterWizard\bin\Debug\DataAdapterWizard.pdb
+C:\Users\daniil.orel\University\ASP.NET\DataAdapterWizard\obj\Debug\DataAdapterWizard.csproj.AssemblyReference.cache
+C:\Users\daniil.orel\University\ASP.NET\DataAdapterWizard\obj\Debug\DataAdapterWizard.csproj.SuggestedBindingRedirects.cache
+C:\Users\daniil.orel\University\ASP.NET\DataAdapterWizard\obj\Debug\DataAdapterWizard.Form1.resources
+C:\Users\daniil.orel\University\ASP.NET\DataAdapterWizard\obj\Debug\DataAdapterWizard.Properties.Resources.resources
+C:\Users\daniil.orel\University\ASP.NET\DataAdapterWizard\obj\Debug\DataAdapterWizard.csproj.GenerateResource.cache
+C:\Users\daniil.orel\University\ASP.NET\DataAdapterWizard\obj\Debug\DataAdapterWizard.csproj.CoreCompileInputs.cache
+C:\Users\daniil.orel\University\ASP.NET\DataAdapterWizard\obj\Debug\DataAdapterWizard.exe
+C:\Users\daniil.orel\University\ASP.NET\DataAdapterWizard\obj\Debug\DataAdapterWizard.pdb

@@ -1,0 +1,11 @@
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataViewExample\bin\Debug\DataViewExample.exe.config
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataViewExample\bin\Debug\DataViewExample.exe
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataViewExample\bin\Debug\DataViewExample.pdb
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataViewExample\obj\Debug\DataViewExample.csproj.AssemblyReference.cache
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataViewExample\obj\Debug\DataViewExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataViewExample\obj\Debug\DataViewExample.Form1.resources
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataViewExample\obj\Debug\DataViewExample.Properties.Resources.resources
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataViewExample\obj\Debug\DataViewExample.csproj.GenerateResource.cache
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataViewExample\obj\Debug\DataViewExample.csproj.CoreCompileInputs.cache
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataViewExample\obj\Debug\DataViewExample.exe
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataViewExample\obj\Debug\DataViewExample.pdb

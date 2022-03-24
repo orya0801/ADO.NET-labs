@@ -1,0 +1,11 @@
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\CreatingDataTable\bin\Debug\CreatingDataTable.exe.config
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\CreatingDataTable\bin\Debug\CreatingDataTable.exe
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\CreatingDataTable\bin\Debug\CreatingDataTable.pdb
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.AssemblyReference.cache
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.SuggestedBindingRedirects.cache
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\CreatingDataTable\obj\Debug\CreatingDataTable.Form1.resources
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\CreatingDataTable\obj\Debug\CreatingDataTable.Properties.Resources.resources
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.GenerateResource.cache
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.CoreCompileInputs.cache
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\CreatingDataTable\obj\Debug\CreatingDataTable.exe
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\CreatingDataTable\obj\Debug\CreatingDataTable.pdb
