@@ -1,0 +1,11 @@
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\PR6\SavingDataSetXml\bin\Debug\SavingDataSetXml.exe.config
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\PR6\SavingDataSetXml\bin\Debug\SavingDataSetXml.exe
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\PR6\SavingDataSetXml\bin\Debug\SavingDataSetXml.pdb
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\PR6\SavingDataSetXml\obj\Debug\SavingDataSetXml.csproj.AssemblyReference.cache
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\PR6\SavingDataSetXml\obj\Debug\SavingDataSetXml.csproj.SuggestedBindingRedirects.cache
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\PR6\SavingDataSetXml\obj\Debug\SavingDataSetXml.Form1.resources
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\PR6\SavingDataSetXml\obj\Debug\SavingDataSetXml.Properties.Resources.resources
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\PR6\SavingDataSetXml\obj\Debug\SavingDataSetXml.csproj.GenerateResource.cache
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\PR6\SavingDataSetXml\obj\Debug\SavingDataSetXml.csproj.CoreCompileInputs.cache
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\PR6\SavingDataSetXml\obj\Debug\SavingDataSetXml.exe
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\PR6\SavingDataSetXml\obj\Debug\SavingDataSetXml.pdb

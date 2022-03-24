@@ -1,0 +1,8 @@
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\PR7\Linq_Student\bin\Debug\Linq_Student.exe.config
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\PR7\Linq_Student\bin\Debug\Linq_Student.exe
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\PR7\Linq_Student\bin\Debug\Linq_Student.pdb
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\PR7\Linq_Student\obj\Debug\Linq_Student.csproj.AssemblyReference.cache
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\PR7\Linq_Student\obj\Debug\Linq_Student.csproj.SuggestedBindingRedirects.cache
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\PR7\Linq_Student\obj\Debug\Linq_Student.csproj.CoreCompileInputs.cache
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\PR7\Linq_Student\obj\Debug\Linq_Student.exe
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\PR7\Linq_Student\obj\Debug\Linq_Student.pdb

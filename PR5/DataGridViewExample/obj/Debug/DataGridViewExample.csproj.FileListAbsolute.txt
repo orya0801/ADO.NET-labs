@@ -1,0 +1,11 @@
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataGridViewExample\bin\Debug\DataGridViewExample.exe.config
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataGridViewExample\bin\Debug\DataGridViewExample.exe
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataGridViewExample\bin\Debug\DataGridViewExample.pdb
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.AssemblyReference.cache
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataGridViewExample\obj\Debug\DataGridViewExample.Form1.resources
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataGridViewExample\obj\Debug\DataGridViewExample.Properties.Resources.resources
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.GenerateResource.cache
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.CoreCompileInputs.cache
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataGridViewExample\obj\Debug\DataGridViewExample.exe
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataGridViewExample\obj\Debug\DataGridViewExample.pdb

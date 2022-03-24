@@ -1,0 +1,11 @@
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataSourcesWizard\bin\Debug\DataSourcesWizard.exe.config
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataSourcesWizard\bin\Debug\DataSourcesWizard.exe
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataSourcesWizard\bin\Debug\DataSourcesWizard.pdb
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.AssemblyReference.cache
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.SuggestedBindingRedirects.cache
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataSourcesWizard\obj\Debug\DataSourcesWizard.Form1.resources
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataSourcesWizard\obj\Debug\DataSourcesWizard.Properties.Resources.resources
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.GenerateResource.cache
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.CoreCompileInputs.cache
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataSourcesWizard\obj\Debug\DataSourcesWizard.exe
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataSourcesWizard\obj\Debug\DataSourcesWizard.pdb

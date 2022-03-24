@@ -1,0 +1,11 @@
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataBindingSimple\bin\Debug\DataBindingSimple.exe.config
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataBindingSimple\bin\Debug\DataBindingSimple.exe
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataBindingSimple\bin\Debug\DataBindingSimple.pdb
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataBindingSimple\obj\Debug\DataBindingSimple.csproj.AssemblyReference.cache
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataBindingSimple\obj\Debug\DataBindingSimple.csproj.SuggestedBindingRedirects.cache
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataBindingSimple\obj\Debug\DataBindingSimple.Properties.Resources.resources
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataBindingSimple\obj\Debug\DataBindingSimple.csproj.GenerateResource.cache
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataBindingSimple\obj\Debug\DataBindingSimple.csproj.CoreCompileInputs.cache
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataBindingSimple\obj\Debug\DataBindingSimple.exe
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataBindingSimple\obj\Debug\DataBindingSimple.pdb
+C:\Users\daniil.orel\Desktop\University\Создание ПО\ADO.NET\labs\DataBindingSimple\obj\Debug\DataBindingSimple.Form1.resources
